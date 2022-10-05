@@ -1,0 +1,138 @@
+body {
+  font-family: 'Calibri';
+  background-color: beige;
+  color: #011EFA;
+  padding: 10px 5px;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: xx-large;
+  padding: 5px 0px 5px 0px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: x-large;
+  text-decoration: underline;
+}
+
+a {
+  color: #011EFA;
+  text-decoration: none;
+  font-weight: ;
+}
+
+#summary {
+  color: black;
+  background-color: aliceblue;
+  border: solid black 2px;
+  font-weight: bold;
+  font-size: medium;
+}
+
+.summary_border {
+  box-sizing: border-box;
+  display: inline-block;
+  text-align: center;
+  padding: 10px 5px;
+}
+
+
+#bio {
+  color: black;
+  padding: 5px;
+  display: inline;
+}
+
+#bio h2 {
+  color: #011EFA;
+  padding: 5px;
+}
+
+#bio p {
+  padding: 5px;
+}
+
+.schooling {
+  color: black;
+  padding: 5px 0px 5px;
+}
+
+.schooling h4 {
+  font-weight: bold;
+}
+
+.schooling h6 {
+  color: lightslategray;
+  font-style: italic;
+}
+
+.jobs {
+  color: black;
+  padding: 5px 0px 5px;
+}
+
+.jobs h4 {
+  font-weight: bold;
+}
+
+.jobs h6 {
+  color: lightslategray;
+  font-style: italic;
+}
+
+.jobs p {
+  padding: 2px 0px 0px;
+}
+
+#experience {
+  padding: 10px 0px 0px;
+}
+
+#goals {
+  padding: 10px 0px 0px;
+}
+
+#goals ol li {
+  color: black;
+  padding: 5px 0px 0px;
+  list-style-type: decimal;
+  list-style-position: inside;
+}
+
+#goals ol li::marker {
+  font-weight: bold;
+}
+
+#quiz {
+  padding: 10px 0px;
+}
+
+button {
+  color: #011EFA;
+  background-color: #FAF419;
+  border: solid #011EFA 2px;
+  font-size: medium;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+button:hover {
+  color: #FAF419;
+  background-color: #011EFA;
+  border: solid #FAF419 2px;
+}
+
+footer {
+  font-weight: bold;
+  font-size: small;
+  position: bottom;
+  padding: 10px;
+}
+
+#profilepic {
+  width: 250px;
+  float: left;
+  padding: 15px 10px 5px 0px;
+}
