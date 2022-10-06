@@ -156,6 +156,7 @@ button:hover {
 }
 
 #top10 {
+  margin: 2px;
   padding: 10px 5px;
   border: solid black 2px;
   width: fit-content;
