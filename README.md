@@ -1,4 +1,4 @@
-# LAB - 02
+# LAB - 02/03/04
 
 ## About Me
 
@@ -19,3 +19,8 @@ At the end of the webpage is an interactive quiz that asks **5** basic questions
 Today I think I had a breakthrough in understanding how to more effectively lay out my HTML documents so that they are easier to format with an external CSS stylesheet. By effectively utilizing `<section>` and `<div>` elements paired with the `id` and `class` attributes, respectively, I was able to structure the sections of the HTML file in a much easier to understand flow during my initial construction. This allowed me to simultaneously construct the layout of the CSS stylesheet and quickly iterate on formatting ideas as I moved from section to section.
 
 Going forward, I think that this process of web design could be even more efficient if I spend time upfront wireframing the website. I have not done that during the last two labs and think that this is a critical piece of planning that I am not doing. Granted, I've been able to get away with not wireframing due to the simple nature of the sites, however, as the complexity of the websites I build grows, the more benefit I will derive from wireframing.
+
+#### Learning Journal: 04
+
+* Driver - Mike McCarty
+* Navigator - Harper Foley
