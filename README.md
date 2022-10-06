@@ -20,7 +20,17 @@ Today I think I had a breakthrough in understanding how to more effectively lay 
 
 Going forward, I think that this process of web design could be even more efficient if I spend time upfront wireframing the website. I have not done that during the last two labs and think that this is a critical piece of planning that I am not doing. Granted, I've been able to get away with not wireframing due to the simple nature of the sites, however, as the complexity of the websites I build grows, the more benefit I will derive from wireframing.
 
+#### Learning Journal: 03
+
+
+
 #### Learning Journal: 04
 
 * Driver - Mike McCarty
 * Navigator - Harper Foley
+* [Mike's PR](https://github.com/hfoley2013/codefellows-201-about-me/pull/2)
+* [Harper's PR](https://github.com/mikemac1/about-me/pull/1)
+
+Communication is key when working with a partner, as is respecting roles. If driving, do not forge ahead of the Navigator. If Navigating, use clear language and verify that the Driver understands what you want executed before you let them start typing. If either person begins to work alone on a problem, then that defeats the point of Pair Programming.
+
+Overall, today was a bit easier than the other days. I think at this point I have a general enough understanding of the relationships between HTML, CSS, and JS to actually build out a basic website and the troubleshoot it. Next steps for me are to continue to identify specific problems that I know can be solved with code, then go research how to actually build the code to solve that problem.
