@@ -68,6 +68,7 @@ a {
   vertical-align: top;
   width: 45%;
   margin: 10px 2px;
+  height: 400px;
 }
 
 .schooling {
@@ -156,6 +157,7 @@ button:hover {
 }
 
 #top10 {
+  margin: 2px;
   padding: 10px 5px;
   border: solid black 2px;
   width: fit-content;
@@ -175,10 +177,6 @@ button:hover {
 
 #top10 ol li::marker {
   font-weight: bold;
-}
-
-#top10, #quiz {
-  vertical-align: top;
 }
 
 footer {
@@ -205,4 +203,13 @@ footer {
 #goals, #top10 {
   width: 45%;
   vertical-align: top;
+  height: 280px;
+}
+
+#goals ol li:nth-child(odd) {
+  color: #011EFA;
+}
+
+#top10 ol li:nth-child(even) {
+  color: #011EFA;
 }
