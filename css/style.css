@@ -205,3 +205,7 @@ footer {
   vertical-align: top;
   height: 280px;
 }
+
+#goals ol li:nth-child(odd) {
+  color: #011EFA;
+}
