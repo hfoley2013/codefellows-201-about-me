@@ -209,3 +209,7 @@ footer {
 #goals ol li:nth-child(odd) {
   color: #011EFA;
 }
+
+#top10 ol li:nth-child(even) {
+  color: #011EFA;
+}
